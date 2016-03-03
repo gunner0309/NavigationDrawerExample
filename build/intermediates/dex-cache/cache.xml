@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-c864e0a710342ae81cfe14cc8e01e9c346ff42d4.jar"
+        jar="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-527720b079d6bab2d1a61dd6e098a42ccd7e025b.jar"
+        jar="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-7cda0b606700451fdc295c6742b3280068a4dc19.jar"
+        jar="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-9550871118fe0fae62f2b35a34f756378d3a0d5e.jar"
+        jar="C:\Users\MARS\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+
+</pre-dex-items>
